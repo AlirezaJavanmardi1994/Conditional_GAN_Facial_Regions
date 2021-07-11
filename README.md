@@ -5,4 +5,4 @@ In CGAN, both the generator and discriminator are conditioned on a control varia
 It is worth mentioning that, the output of the discriminator will show the real value if and only if the input sample and corresponding conditional variable match each other.
 
 ![alt text](https://www.uplooder.net/img/image/97/2b73fde10b5cbf752ade35450408be0d/335c540c7c5fc7113d44bbb82484ce0e.png)
-![alt text](https://www.uplooder.net/img/image/41/bad00f60263cbe92c5ba8bd247ff612e/Untitled.png)
+![alt text](https://www.uplooder.net/img/image/92/e9fe8d1407d74335c53dc8e8ae4f5e66/Untitled.png)
